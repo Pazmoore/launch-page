@@ -4,9 +4,6 @@ import Image from "next/image";
 import { PiMoonThin, PiSunThin } from "react-icons/pi";
 import { FaBars } from "react-icons/fa";
 import Countdown from "@/components/Countdown";
-import { IoKeyOutline } from "react-icons/io5";
-import { RiHomeLine } from "react-icons/ri";
-import { MdOutlineChevronRight } from "react-icons/md";
 
 const Navbar = () => {
 
