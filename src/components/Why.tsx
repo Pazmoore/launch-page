@@ -25,7 +25,7 @@ export default function why() {
         </div>
 
         <Link
-          href="/event"
+          href="https://ticket-lake-two.vercel.app/"
           className="mt-4 mb-4 inline-block px-5 py-3 text-white font-bold text-base rounded-full bg-gradient-to-br from-[#f10004] to-[#8aefcc] shadow-md hover:from-[#8aefcc] hover:to-[#f10004] hover:-translate-y-0.5 active:translate-y-0 transition-all duration-300"
         >
           Let&apos;s Get Started
